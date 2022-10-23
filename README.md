@@ -1,4 +1,3 @@
-# practice-Biswa
+# practice-GB
 
-
-This is a repo for Biswajeeban Mishra & Ficsur Gergely's practice for the GFA Course.
+This is a repo for Ficsur Gergely and Biswajeeban Mishra's practice for the GFA Course.
